@@ -1,2 +1,2 @@
-# ejemplo-para-pull
-PAra pracicar el comando pull
+# Readme para practicar pull
+Para pracicar el comando pull
